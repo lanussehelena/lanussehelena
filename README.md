@@ -29,3 +29,9 @@ Atualmente, contribuo como **Frontend Voluntária** em projetos globais, unindo 
 ## 🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 🐍 Desafio de Contribuições
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/lanussehelena/lanussehelena/output/github-snake.svg)
+
+> **Nota Técnica:** Esta animação é gerada automaticamente via **GitHub Actions** (CI/CD), processando o meu gráfico de contribuições e realizando o deploy do ficheiro para uma branch de output a cada 12 horas. 🤖⚙️
