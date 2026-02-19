@@ -1,24 +1,19 @@
-## 👋 Olá, eu sou Lanusse Helena,
+## 👋 Olá, eu sou Lanusse Helena!
 
-Sou desenvolvedora em transição de carreira, com uma bagagem de mais de 10 anos em design de interiores e atualmente apaixonada por programação. Tenho me dedicado ao estudo de desenvolvimento web com foco em **HTML**, **CSS**, **JavaScript**, além de ferramentas como **Git** e **Figma**. 
+Estudante de **Sistemas para Internet** e Desenvolvedora Web em transição de carreira. 
+Atualmente, contribuo como **Frontend Voluntária** em projetos globais, unindo o rigor técnico do design à arquitetura de software moderna.
 
-Adoro aprender, enfrentar novos desafios e transformar ideias em soluções criativas. 🚀  
-Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos. Seja bem-vindo(a)!
+- 🚀 Atuando na **Fogaréu Tech** & **Women’s Coding Club Rotterdam**.
+- 🎓 Especialista em **Backend Jr** e cursando **Sistemas para Internet**.
+- 🌍 Um ano de vivência internacional e **Inglês Avançado**.
 
+## 💻 Tech Stack Principal
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanusse-silveira/)
+### 🌐 Frontend & Mobile
+![React](badge) ![Next.js](badge) ![TypeScript](badge) ![Tailwind](badge)
 
-# 💻 Tech Stack
-
-## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## ☕ Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+### ☕ Backend & Dados
+![Node.js](badge) ![Java](badge) ![MongoDB](badge) ![SQL](badge)
 
 ## 🛠️ Ferramentas & IDEs
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
