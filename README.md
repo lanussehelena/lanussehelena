@@ -7,6 +7,18 @@ Atualmente, sou **Líder Estudantil Builder AWS** e também contribuo como **Des
 - 🎓 Especialista em **Backend Jr** e cursando **Sistemas para Internet**.
 - 🌍 Um ano de vivência internacional e **Inglês Avançado**.
 
+## ☁️ AWS Student Leadership
+
+- Como **Líder Estudantil Builder AWS**, minha missão é democratizar o acesso ao conhecimento em nuvem no ambiente universitário. 
+- 🎓 **Fomento à Tecnologia:** Organizo workshops práticos sobre **AWS Free Tier** e boas práticas de faturamento para iniciantes.
+- 🏗️ **Cultura Builder:** Promovo o uso de serviços AWS para que estudantes transformem ideias em soluções reais e escaláveis.
+- 🤝 **Conexão Comunidade-Campus:** Atuo como ponte entre a **Comunidade AWS João Pessoa** e a universidade, trazendo mentorias e visão de mercado para os alunos.
+
+## 🌟 Comunidade & Reconhecimento
+- **AWS João Pessoa:** Membro ativa e participante constante de todos os encontros da comunidade local.
+- **AWSome Women Community Summit:** Participante da edição Brasil, focada em liderança feminina na nuvem.
+- **Turmalinas Tech:** Gestora de engajamento em projeto de extensão voltado à inclusão feminina na tecnologia.
+
 ## 💻 Tech Stack Principal
 
 ### 🌐 Frontend & Mobile
@@ -20,6 +32,12 @@ Atualmente, sou **Líder Estudantil Builder AWS** e também contribuo como **Des
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & AWS Services
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 ## 🛠️ Ferramentas & IDEs
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
