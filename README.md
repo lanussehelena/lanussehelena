@@ -1,9 +1,9 @@
 ## 👋 Olá, eu sou Lanusse Helena!
 
 Estudante de **Sistemas para Internet** e Desenvolvedora Web em transição de carreira. 
-Atualmente, sou ** Líder Estudantil Builder AWS** e também contribuo como **Desenvolvedora Frontend Voluntária** em projetos globais, unindo o rigor técnico do design à arquitetura de software moderna.
+Atualmente, sou **Líder Estudantil Builder AWS** e também contribuo como **Desenvolvedora Frontend Voluntária** em projetos globais, unindo o rigor técnico do design à arquitetura de software moderna.
 
-- 🚀 Atuando como ** Líder Estudantil Builder AWS** e **Dev** na **Fogaréu Tech** & **Women’s Coding Club Rotterdam**.
+- 🚀 Atuando como **Líder Estudantil Builder AWS** e **Dev** na **Fogaréu Tech** & **Women’s Coding Club Rotterdam**.
 - 🎓 Especialista em **Backend Jr** e cursando **Sistemas para Internet**.
 - 🌍 Um ano de vivência internacional e **Inglês Avançado**.
 
